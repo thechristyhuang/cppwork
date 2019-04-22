@@ -14,3 +14,13 @@
   範例：<br>
    Please specify the number of cards in a line: 3<br>
    Which card do you want? D 12 S 10 H 11
+   
+## work3：
+遊戲流程: 21點玩家單人玩<br>
+1.    開始玩家一張牌<br>
+2.    詢問玩家是否加牌、直至玩家不加牌或暴掉或超過五張(爆掉算0點)<br>
+3.    每場結束計算點數<br>
+4.    玩五場計算玩家平均得點<br>
+在每個動作開始前，請輸出使用者該作甚麼<br>
+
+點數計算：A可作一點或十一點，2-10作該牌之點數，J、Q、K作十點。<br>
