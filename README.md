@@ -15,7 +15,7 @@
    Please specify the number of cards in a line: 3<br>
    Which card do you want? D 12 S 10 H 11
    
-## work3：
+## 21點：
 遊戲流程: 21點玩家單人玩<br>
 1.    開始玩家一張牌<br>
 2.    詢問玩家是否加牌、直至玩家不加牌或暴掉或超過五張(爆掉算0點)<br>
